@@ -1,1 +1,1 @@
-<？php echo'你好'
+<?php echo'你好';
